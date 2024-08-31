@@ -87,7 +87,7 @@ Feel free to open issues or submit pull requests to improve this project!
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Sarika362/Disease-Detection-Healthcare-Recommendation-System/blob/main/License) file for details.
 
 ---
 
