@@ -46,11 +46,39 @@ The app will be accessible at http://localhost:5000/.
 
 ## 📂 Project Structure
 
-- **`app.py`**: Main Flask application file with route handling and template rendering.
-- **`model.py`**: Contains functions for disease prediction and retrieving disease details.
-- **`dataset_mini_prj.csv`**: Dataset with symptoms and corresponding diseases.
-- **`templates/index.html`**: HTML template for the web interface.
-- **`static/css/styles.css`**: CSS styles for the application.
+SE_ML_Model
+
+<pre>
+static<br />
+&nbsp;&nbsp;&nbsp;&nbsp;└── css<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── styles.css 🎨<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── bg.gif 🌟<br />
+templates<br />
+&nbsp;&nbsp;&nbsp;&nbsp;└── index.html 🖥️<br />
+└── app.py 🔧<br />
+└── model.py 🤖<br />
+└── dataset.csv 📊
+</pre>
+
+
+- **static/**: Contains static files like CSS and background images.
+  - **css/**: Contains stylesheets and background images.
+    - `styles.css` 🎨
+    - `bg.gif` 🌟
+- **templates/**: Contains HTML templates for the web pages.
+  - `index.html` 🖥️
+- **app.py**: The main Flask application file. 🔧
+- **model.py**: Contains the machine learning model and related functions. 🤖
+- **dataset.csv**: The dataset used to train the machine learning model. 📊
+
+
+## Features 🌟
+
+- **Symptom Input**: Users can enter symptoms in a text box and submit them for analysis. 📝
+- **Disease Prediction**: The application uses a trained machine learning model to predict possible diseases based on the entered symptoms. 🔍
+- **Health Care Recommendations**: Provides recommended treatments, doctors, and risk levels associated with the predicted diseases. 💊🩺
+- **Probability of Prediction**: Displays the probability of the predicted disease. 📉
+- **Responsive Design**: The user interface is designed to be responsive and user-friendly. 📱
 
 ## 🔍 Example Usage
 
