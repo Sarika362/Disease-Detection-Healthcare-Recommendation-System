@@ -106,7 +106,7 @@ The model is evaluated using accuracy and classification report metrics. Ensure 
 
 ## 💡 Credits
 
-- Developed by [Sarika M N](https://github.com/Sarika362), [Shashank B R](https://github.com/Shashankx22)
+- Developed by [Sarika M N](https://github.com/Sarika362)
 - Initial Dataset source: [Dataset Source](https://www.kaggle.com/datasets/pasindueranga/disease-prediction-based-on-symptoms)
 
 ## 🤝 Contributing
